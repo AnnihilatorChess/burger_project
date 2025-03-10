@@ -3,3 +3,5 @@ Total Money spent
 At what time are you likely to meet me --- time of the day and weekday ---
 burger consumption timeline --- prediction ---
 average weekly --- for different time periods, e.g. last month ---
+monthly consuption --- interactive select a month ---
+
