@@ -1,7 +1,14 @@
+Title: Analyzing problematic Fast-Food Consumption by a University Student Example
+Title: Analyzing Simi's problematic Burgerista Fast-Food consumption
+
 Total Burgers eaten
 Total Money spent
-At what time are you likely to meet me --- time of the day and weekday ---
-burger consumption timeline --- prediction ---
-average weekly --- for different time periods, e.g. last month ---
-monthly consuption --- interactive select a month ---
+At what time are you likely to meet me   --- time of the day and weekday ---
+burger consumption timeline             --- prediction ---
+average weekly                          --- for different time periods, e.g. last month ---
+monthly consuption                       --- interactive select a month ---
+percentage of average daily calorie consumption --- protein and fat percentages ---
 
+Cheeseburger: 561 kalories, 30 g Fat, 50 g Carbs, of which 13 g Sugar, 22 g Protein
+
+Daily nutritional need: 3,065 kcal, 68 - 119 g Fat, 345 - 498 g Carbs, 64 g Protein
